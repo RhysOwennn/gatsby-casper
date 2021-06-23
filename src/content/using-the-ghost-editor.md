@@ -1,11 +1,11 @@
 ---
 layout: post
 title: 'Using The Ghost Editor'
-author: [Ghost]
+author: [Sybersyn]
 tags: ['Getting Started']
 image: img/writing.jpg
 date: '2015-02-02T23:46:37.121Z'
-draft: false
+draft: true
 ---
 
 Ghost uses a language called **Markdown** to format text.

@@ -57,32 +57,19 @@ const About: React.FC = () => (
             <PostFullContent className="post-full-content">
               <div className="post-content">
                 <h5>
-                  A starter template for Gatsby <br /> GitHub: <a href="https://github.com/scttcper/gatsby-casper">scttcper/gatsby-casper</a>
+                  Sybersyn By Rhys Owen <br /> GitHub: <a href="https://github.com/scttcper/gatsby-casper">scttcper/gatsby-casper</a>
                 </h5>
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc commodo finibus leo,
-                  non tempus magna vehicula ac. Maecenas mollis ante finibus pharetra imperdiet.
-                  Maecenas in aliquam purus. Nam et massa a nulla fermentum dapibus sit amet in
-                  neque. Ut ipsum ipsum, rhoncus a sodales pellentesque, interdum a elit. Nullam
-                  aliquam tellus nibh, eget laoreet dui aliquet non. Vestibulum malesuada ante at
-                  diam tempus, ac interdum risus scelerisque. Sed ipsum neque, vulputate porta diam
-                  eget, consequat blandit nulla. Integer volutpat velit vitae purus lacinia aliquam.
-                  Integer bibendum ipsum vitae magna pulvinar, nec vehicula dolor vulputate. Nulla
-                  eu massa id orci placerat finibus vel sit amet eros. Vestibulum quis consequat
-                  massa. Sed sagittis sollicitudin massa at commodo. Praesent diam nisi, imperdiet
-                  posuere eleifend nec, blandit ac massa.
+                  Sybersyn is a music project created by Rhys John Owen that aims to create visual and auditory experiences.
+                  There is an emphasis on the current global socio-political climate and every aspect of the project aims to provide 
+                  commentary and artistic expression.
                 </p>
                 <p>
-                  Vestibulum semper pretium ipsum nec congue. Ut ac eros nisi. Donec leo sem,
-                  aliquam mollis sapien ultrices, dapibus congue diam. Proin viverra dapibus
-                  blandit. Ut mauris tellus, tristique id felis vel, venenatis vestibulum nunc. Nam
-                  molestie pulvinar nibh, eget egestas augue. Maecenas tellus arcu, mattis ut ipsum
-                  non, sollicitudin convallis nunc. Donec nec neque tristique, aliquet lacus id,
-                  laoreet nunc. Cras dapibus nisi nulla, ullamcorper faucibus neque suscipit ac.
-                  Donec eget orci venenatis justo lobortis volutpat. Proin vel placerat nisl.
-                  Integer arcu nunc, sodales eu fringilla non, aliquam non diam. Cras placerat,
-                  massa et faucibus pretium, ante elit tincidunt tellus, tristique ultricies velit
-                  quam et massa.
+                  It is no secret that we're living in a new era. A time of global surveillance, mass psychological manipulation
+                  and covert warfare. The future is more uncertain than ever, with the compounding of technological advancements,
+                  the increasing concentration of power and wealth among the priviledged few - it's clear that we are in need of 
+                  artworks of innovation to help us explore the possibilites of a tomorrow that alone none of us could imagine but 
+                  together, one that could be far richer and fufilling than we ever could have imagined.  
                 </p>
                 <p>
                   In nunc lacus, dapibus vitae lacus sit amet, efficitur iaculis neque. Suspendisse

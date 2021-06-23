@@ -92,11 +92,11 @@ class SiteNav extends React.Component<SiteNavProps, SiteNavState> {
                 <li role="menuitem">
                   <Link to="/" activeClassName="nav-current">Home</Link>
                 </li>
-                <li role="menuitem">
+                {/* <li role="menuitem">
                   <Link to="/about" activeClassName="nav-current">About</Link>
-                </li>
+                </li> */}
                 <li role="menuitem">
-                  <Link to="/tags/getting-started/" activeClassName="nav-current">Getting Started</Link>
+                  <Link to="/tags/getting-started/" activeClassName="nav-current">Latest Releases</Link>
                 </li>
               </ul>
               {isPost && (
@@ -214,7 +214,7 @@ const NavStyles = css`
     position: relative;
     display: block;
     padding: 12px 12px;
-    color: #fff;
+    color: #000000;
     opacity: 0.8;
     transition: opacity 0.35s ease-in-out;
   }
@@ -269,8 +269,8 @@ const SubscribeButton = styled.a`
   display: block;
   padding: 4px 10px;
   margin: 0 0 0 10px;
-  border: #fff 1px solid;
-  color: #fff;
+  border: #000000 1px solid;
+  color: 	#000000;
   line-height: 1em;
   border-radius: 10px;
   opacity: 0.8;
@@ -286,7 +286,7 @@ const NavPostTitle = styled.span`
   visibility: hidden;
   position: absolute;
   top: 9px;
-  color: #fff;
+  color: #000000;
   font-size: 1.7rem;
   font-weight: 400;
   text-transform: none;
