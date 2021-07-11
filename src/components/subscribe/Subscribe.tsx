@@ -14,7 +14,7 @@ export const Subscribe: React.FC<SubscribeProps> = props => {
   return (
     <SubscribeFormSection>
       <h3 css={SubscribeFormTitle}>Subscribe to {props.title}</h3>
-      <p>Get the latest posts delivered right to your inbox</p>
+      <p>Get updates on new music delivered straight to your mail</p>
       <SubscribeForm />
     </SubscribeFormSection>
   );

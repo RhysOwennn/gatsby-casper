@@ -96,7 +96,7 @@ export const SocialLink = css`
 
   svg {
     height: 1.8rem;
-    fill: #00000;
+    fill: #fff;
   }
 `;
 

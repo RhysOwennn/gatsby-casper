@@ -23,21 +23,21 @@ export const Footer: React.FC = () => {
         <SiteFooterNav>
           <Link to="/">Latest Posts</Link>
           {config.facebook && (
-            <a href={config.facebook} target="_blank" rel="noopener noreferrer">
+            <a href="https://m.facebook.com/Sybersyn-102021251750933/" target="_blank" rel="noopener noreferrer">
               Facebook
             </a>
           )}
           {config.twitter && (
-            <a href={config.twitter} target="_blank" rel="noopener noreferrer">
+            <a href="https://twitter.com/Syber_syn" target="_blank" rel="noopener noreferrer">
               Twitter
             </a>
           )}
 
-          <a href="https://github.com/scttcper/gatsby-casper" target="_blank" rel="noopener noreferrer">
-            Casper
+          <a href="https://open.spotify.com/artist/3RmmqvC0pG45U0sG6tuE4A?si=AgvYeLZlRYKpETMBdPtIEg&dl_branch=1" target="_blank" rel="noopener noreferrer">
+            Spotify
           </a>
 
-          <a href="/rss.xml">RSS</a>
+          <a href="https://www.youtube.com/channel/UCibjul38K2rQoUhGYEefHZQ">YouTube</a>
         </SiteFooterNav>
       </div>
     </footer>
